@@ -58,3 +58,9 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+
+#link {
+  display: block;
+  margin: 0 auto;
+  font-size: x-small;
+}
